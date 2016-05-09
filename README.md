@@ -3,6 +3,9 @@
 #Description
 Cocth - The Game is a PSP game on which you have to catch colorful balls to score points. At the moment this is just an alpha version.
 
+#How to Use
+You need to put files in the MS next to with the EBOOT.PBP of LuaDEV.
+
 #License
 The MIT License (MIT)
 
